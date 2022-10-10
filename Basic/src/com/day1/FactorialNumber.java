@@ -9,7 +9,7 @@ public class FactorialNumber {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter Numnber to find Factorial: ");
 		n = sc.nextInt();
-		System.out.println("This is your Number of Factorial is ");
+		System.out.println("Your Number of Factorial is ");
 		
 		for(int i = 1; i < n; i++) 
 			System.out.print( " " + i + " ");
@@ -20,7 +20,7 @@ public class FactorialNumber {
 			--n;
 		}
 		
-		System.out.println("Your Factorial Number is: " + fact);
+		System.out.println(" - Your Factorial Number is: " + fact);
 
 
 	}

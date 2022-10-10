@@ -2,6 +2,7 @@ package com.day9;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
 
  
 public class ArrayListAndAsList {
@@ -23,7 +24,6 @@ public class ArrayListAndAsList {
 		
 		list.add("New Mumbai");  // Adding New Element Here in city.
 		System.out.println(list);
-		
 		
 
 	}

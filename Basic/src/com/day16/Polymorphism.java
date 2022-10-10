@@ -1,6 +1,6 @@
 package com.day16;
+	
 	// Polymorphism using method overriding
-
 	class Language{		
 		void display() {
 			System.out.println("Commen English Language");
